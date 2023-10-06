@@ -4,5 +4,5 @@ def some_fun(a,x):
 def new_fun(y,c):
     return y**c
 
-def divie(a,b):
+def divide(a,b):
     return a/b
